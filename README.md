@@ -7,7 +7,7 @@ Documento as cervejas degustadas, e pensei, por que não criar um repositório a
 
 As informações das cervejas degustadas, estão agru
 
-- [Lista de Cervejas](listagem/cerveja.md)
+- [Lista de Cervejas](listagem/cerveja/geral.md)
   - [Por Data](listagem/cerveja/pordata.md)
   - [Por Nota](listagem/cerveja/pornota.md)
   - [Por Estilo](listagem/cerveja/porestilo.md)
